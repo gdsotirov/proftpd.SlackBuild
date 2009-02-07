@@ -1,1 +1,4 @@
-openssl >= 0.9.8e | openssl-solibs >= 0.9.8e
+attr >= 2.4.41_1
+glibc-solibs >= 2.7
+openssl >= 0.9.8i | openssl-solibs >= 0.9.8i
+libcap >= 2.14
